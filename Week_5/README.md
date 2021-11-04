@@ -18,7 +18,7 @@ In this module, you will learn about object detection with different methods. Th
 
 -   Video: LectureObject Detection
     
--   Video: LectureObject Detection with Haar Cascade Classifier
+-   Video: LectureObject Detection with Haar Cascade Classifier
     
 -   Ungraded External Tool: Ungraded External ToolCar Detection with Haar Classifiers
     
